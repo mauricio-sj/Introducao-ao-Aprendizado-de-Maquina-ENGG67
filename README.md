@@ -15,11 +15,16 @@ pertinentes para cumprir as tarefas propostas abaixo.
 
 
 a. Caracterize os dados quanto ao Tipo e Escala;
+
 b. O conjunto de dados ´e univariado ou multivariado?
-c. Verifique a necessidade de balanceamento dos dados e carcarterize estatisticamente os
+
+c. Verifique a necessidade de balanceamento dos dados e caracterize estatisticamente os
 dados;
-d. Analise os dados quanto `a sua incompletude, inconsist^encias, redund^ancias e presen¸ca
-de ru´ıdo;
-e. Promova uma transforma¸c~ao de dados consistente com o banco sob an´alise;
-f. Utilize a an´alise de componentes principais (PCA) para gerar gr´aficos no espa¸co de
+
+d. Analise os dados quanto a sua incompletude, inconsistencias, redundancias e presenca
+de ruıdo;
+
+e. Promova uma transformacao de dados consistente com o banco sob analise;
+
+f. Utilize a analise de componentes principais (PCA) para gerar graficos no espaco de
 atributos.
